@@ -35,4 +35,7 @@ func main() {
 	hashset()
 	fmt.Println("--------------------------------------")
 	gethash()
+	fmt.Println("")
+	fmt.Println("--------------------------------------")
+	push()
 }
